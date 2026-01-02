@@ -1,2 +1,2 @@
-# TranscendentalProcessings
-random writings
+从一名葱厨的失败尝试，到一名神秘使的大胆构想；从绝境中的奋力一搏，到事后的严格证明；这里会有许多...乱七八糟的玩意。<br>
+*试图寻找寓意者将被放逐。*
