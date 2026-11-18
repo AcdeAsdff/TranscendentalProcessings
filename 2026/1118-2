@@ -1,2 +1,0 @@
-GolemEssentiaJarSearchingHelper.java被注释的那一部分是抽出来之前的样子,至于ListenerManager其实就是一个add元素会自动sort的list.
-大概就是我码代码的速度,慢?我不知道别人怎么做这样的事情就是了
